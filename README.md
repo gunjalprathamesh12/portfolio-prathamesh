@@ -1,3 +1,3 @@
 # portfolio-prathamesh
 # portfolio
-# devlopment
+# developement
