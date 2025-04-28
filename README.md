@@ -2,19 +2,3 @@
 # portfolio
 # developement
 # web
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
